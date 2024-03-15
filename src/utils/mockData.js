@@ -2,19 +2,19 @@ const mockData = [
   {
     id: 1,
     title: 'Software Engineer',
-    description: 'Birinci açıklama',
+    description: 'Birinci notun açıklaması',
     date: '15.25 pm',
   },
   {
     id: 2,
-    title: 'Design Engineer',
-    description: 'Birinci açıklama',
+    title: 'Mechanical Engineer',
+    description: 'İkinci notun açıklaması',
     date: '02.25 pm',
   },
   {
     id: 3,
     title: 'Computer Engineer',
-    description: ' açıklama',
+    description: 'Üçüncü notun açıklaması',
     date: '12.25 pm',
   },
   {

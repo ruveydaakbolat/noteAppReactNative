@@ -13,7 +13,7 @@ function RootNavigator() {
   return (
     <Stack.Navigator
       screenOptions={{
-        headerBackTitle: 'Geri',
+        headerBackTitle: 'Back',
         headerTintColor: AppColors.SECONDARY,
       }}>
       <Stack.Screen
